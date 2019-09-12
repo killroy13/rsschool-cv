@@ -30,7 +30,16 @@ I work a lot and with pleasure and I’m ready to learn every day.
 | SQL|Java|HTML / CSS            |
 | MySQL|Apex            |     JS       |
 
-  
+
+
+   * | Languages | WEB
+   ---- | ---- | ----
+   SQL | Java | HTML / CSS  
+   MySQL | Apex | JS
+
+
+
+
 
 ## 5.  Experience
 Sometimes I work on freelance projects. 
