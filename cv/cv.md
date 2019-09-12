@@ -1,5 +1,5 @@
 # rsschool-cv
-****Task "Markdown &amp; Git"
+# Task "Markdown &amp; Git"
 
 
 My name is Igor Ivanenko. I'm learning the RollingScopes courses.
