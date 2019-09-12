@@ -25,20 +25,11 @@ I work a lot and with pleasure and I’m ready to learn every day.
   
 
 ## 4.  Skills
- ||Languages|WEB|
-|----------------|-------------------------------|-----------------------------|
-| SQL|Java|HTML / CSS            |
-| MySQL|Apex            |     JS       |
 
-
-
-   * | Languages | WEB
+   ` | Languages | WEB
    ---- | ---- | ----
    SQL | Java | HTML / CSS  
    MySQL | Apex | JS
-
-
-
 
 
 ## 5.  Experience
