@@ -1,13 +1,22 @@
 # rsschool-cv
-Task "Markdown &amp; Git"
+****Task "Markdown &amp; Git"
+
+
+My name is Igor Ivanenko. I'm learning the RollingScopes courses.
+
+
+----------
+
+1. Contact Information: 
 
 
 
 
-1. Igor Ivanenko
-2. Contact Information: 
-Skype: https://join.skype.com/invite/nqhd0nfNgve2 
-email: ivanenko.igor.88@gmail.com
+ - [Skype](https://join.skype.com/invite/nqhd0nfNgve2)
+ 
+ - email: ivanenko.igor.88@gmail.com
+ ----------
+2. 
 3. I like programming. I like to meet with new technologies and I am going to develop and progress in the sphere of information technologies.
 I like to think, learn and communicate.
 I work a lot and with pleasure and I’m ready to learn every day.
