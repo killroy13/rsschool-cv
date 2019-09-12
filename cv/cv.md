@@ -1,7 +1,9 @@
 
 # Task "Markdown &amp; Git"  CV
 
-My name is **Igor Ivanenko**. I'm learning the RollingScopes courses.
+![me](https://killroy13.github.io/img/photo.jpg)
+
+My name is **Igor**. I'm learning the RollingScopes courses.
  
 
   
